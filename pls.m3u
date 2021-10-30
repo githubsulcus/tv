@@ -1,22 +1,22 @@
-#EXTINF:0, H1-am
+#EXTINF:0, H1
 http://ott-cdn.ucom.am/s1/index.m3u8
-#EXTINF:0, 2
+#EXTINF:0, H2
 http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:0, 3
+#EXTINF:0, Azatutyun TV
 http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:0, 4
+#EXTINF:0, Armenia TV
 http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:0, 5
+#EXTINF:0, Kentron TV
 http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:0, 6
+#EXTINF:0, Live 5
 http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:0, 7
+#EXTINF:0, Erkir media
 http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:0, 8
+#EXTINF:0, A TV
 http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:0, 9
+#EXTINF:0, Live 5 Plus
 http://ott-cdn.ucom.am/s9/index.m3u8
-#EXTINF:0, 10
+#EXTINF:0, Dar 21
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:0, 11
 http://ott-cdn.ucom.am/s11/index.m3u8
