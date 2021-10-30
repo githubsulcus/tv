@@ -4,7 +4,7 @@ http://ott-cdn.ucom.am/s1/index.m3u8
 http://ott-cdn.ucom.am/s2/index.m3u8
 #EXTINF:0, Azatutyun TV
 http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:0, Armenia TV
+#EXTINF:0, tvg-id="armenia-tv", Armenia TV
 http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:0, Kentron TV
 http://ott-cdn.ucom.am/s5/index.m3u8
