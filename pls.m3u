@@ -182,45 +182,45 @@ http://ott-cdn.ucom.am/s95/index.m3u8
 http://ott-cdn.ucom.am/s96/index.m3u8
 #EXTINF:0, Наука
 http://ott-cdn.ucom.am/s98/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", A1
+#EXTINF:-1, group-title="Кино и сериалы", A1
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", A2
+#EXTINF:-1, group-title="Кино и сериалы", A2
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:-1 ,CTC Kids
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Amedia Hit
+#EXTINF:-1, group-title="Кино и сериалы", Amedia Hit
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1,Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 Fox Life
+#EXTINF:-1, Fox Life
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", VIP Serial
+#EXTINF:-1, group-title="Кино и сериалы", VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", VIP Premiere
+#EXTINF:-1, group-title="Кино и сериалы", VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", VIP Megahit
+#EXTINF:-1, group-title="Кино и сериалы", VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", VIP Comedy
+#EXTINF:-1, group-title="Кино и сериалы", VIP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", TV1000 HD
+#EXTINF:-1, group-title="Кино и сериалы", TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", TV1000 Action HD
+#EXTINF:-1, group-title="Кино и сериалы", TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", TV1000 Kino
+#EXTINF:-1, group-title="Кино и сериалы", TV1000 Kino
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", Sony Sci-Fi
+#EXTINF:-1, group-title="Кино и сериалы", Sony Sci-Fi
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 ,Phoenix
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat Nature
+#EXTINF:-1, group-title="Познавательные", Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat Explore
+#EXTINF:-1, group-title="Познавательные", Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat History
+#EXTINF:-1, group-title="Познавательные", Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,Baby TV
 http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
-#EXTINF:-1 group-title="Познавательные", National Geographic Wild HD 
+#EXTINF:-1, group-title="Познавательные", National Geographic Wild HD 
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Black
+#EXTINF:-1, group-title="Кино и сериалы",Black
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
