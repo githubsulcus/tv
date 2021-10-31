@@ -309,3 +309,5 @@ https://sc.id-tv.kz/Cinema_34_35.m3u8
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1, group-title="Кино и сериалы",КИНОХИТ
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1, group-title="Кино и сериалы", tvg-logo="http://epg.it999.ru/img2/987.png",Киносемья HD
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
