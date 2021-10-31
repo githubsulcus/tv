@@ -78,7 +78,7 @@ http://ott-cdn.ucom.am/s3/index.m3u8
 http://ott-cdn.ucom.am/s4/index.m3u8
 #EXTINF:0, Kentron TV
 http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-id="5TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yigw9dr.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="General",5-րդ ալիք (480p)
+#EXTINF:-1 tvg-id="5TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yigw9dr.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Arm",5-րդ ալիք (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:0, Erkir media
@@ -87,14 +87,14 @@ http://ott-cdn.ucom.am/s7/index.m3u8
 http://ott-cdn.ucom.am/s8/index.m3u8
 #EXTINF:0, Live 5 Plus
 http://ott-cdn.ucom.am/s9/index.m3u8
-#EXTINF:-1 tvg-id="21TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Entertainment",21TV (480p)
+#EXTINF:-1 tvg-id="21TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Arm",21TV (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s10/index.m3u8
 #EXTINF:0, 11
 http://ott-cdn.ucom.am/s11/index.m3u8
 #EXTINF:0, New Armenia
 http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 tvg-id="ShoghakatTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/e4VxCnn.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Religious",Շողակաթ (480p)
+#EXTINF:-1 tvg-id="ShoghakatTV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/e4VxCnn.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Arm",Շողակաթ (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s13/index.m3u8
 #EXTINF:0, ОРТ
@@ -227,7 +227,7 @@ http://ott-cdn.ucom.am/s80/index.m3u8
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:0, 82
 http://ott-cdn.ucom.am/s82/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/IxOFvqz.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Movies",Armenia Premium (1080p)
+#EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/IxOFvqz.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Arm",Armenia Premium (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:0, 85
@@ -248,7 +248,7 @@ http://ott-cdn.ucom.am/s91/index.m3u8
 http://ott-cdn.ucom.am/s92/index.m3u8
 #EXTINF:0, 93
 http://ott-cdn.ucom.am/s93/index.m3u8
-#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/lidNHkH.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Movies",ATV Կինոման (480p)
+#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/lidNHkH.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Arm",ATV Կինոման (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s94/index.m3u8
 #EXTINF:0, Dorama
